@@ -5,6 +5,6 @@ module.exports = {
     src: '/_dist_',
   },
   buildOptions: {
-    baseUrl: 'https://alejou343.github.io/js-dom',
+    baseUrl: 'https://alejou343.github.io/workshop-1',
   },
 }

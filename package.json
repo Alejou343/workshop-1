@@ -1,5 +1,5 @@
 {
-  "homepage": "https://alejou343.github.io/js-dom",
+  "homepage": "https://alejou343.github.io/workshop-1",
   "scripts": {
     "start": "snowpack dev",
     "build": "snowpack build",
